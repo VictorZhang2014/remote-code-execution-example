@@ -1,6 +1,6 @@
 # Remote Code Execution Example
 
-This project was inspired by a project that a prospective employer sent me and asked me to complete as a part-time assignment.
+This project is based on a real incident in which a prospective employer contacted me on LinkedIn and sent me a part-time coding assignment containing a hidden remote code execution (RCE) mechanism.
 
 This intentionally intrusive educational example demonstrates why third-party
 repositories must be reviewed before they are run. A local web request triggers
